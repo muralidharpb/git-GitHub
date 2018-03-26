@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is 3rd test
+=======
+test3
+>>>>>>> backup2
